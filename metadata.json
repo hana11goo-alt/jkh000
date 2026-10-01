@@ -1,0 +1,6 @@
+{
+  "name": "강의교안 작성 도우미",
+  "description": "교수설계 원칙 기반 주차별 강의교안 작성, AI 초안 생성, 실시간 양식 편집 및 Word/PDF 내보내기 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
